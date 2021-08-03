@@ -1,0 +1,2 @@
+# average
+ArithmeticMean on C
